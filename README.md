@@ -1,7 +1,7 @@
 RSA Factoring Challenge\
 \
 0.Factorize all the things!
-#### 0\. Factorize all the things!#advanced
+#### <a href="https://github.com/olivernjeru/RSA-Factoring-Challenge/blob/main/factors">0\. Factorize all the things!#advanced</a>
 
 Factorize as many numbers as possible into a product of two smaller numbers.
 
@@ -21,7 +21,7 @@ Factorize as many numbers as possible into a product of two smaller numbers.
 -   Push all your scripts, source code, etc... to your repository
     -   we will only run your executable`factors`
 
-#### 1\. RSA Factoring Challenge#advanced
+#### <a href="https://github.com/olivernjeru/RSA-Factoring-Challenge/blob/main/rsa">1\. RSA Factoring Challenge#advanced
 
 RSA Laboratories states that: for each RSA number`n`, there exist prime numbers`p`and`q`such that
 
